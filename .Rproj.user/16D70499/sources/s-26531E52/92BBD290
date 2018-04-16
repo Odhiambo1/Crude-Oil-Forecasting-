@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523862275602.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1527756607",
+    "id" : "92BBD290",
+    "lastKnownWriteTime" : 1523862369,
+    "last_content_update" : 1523862369221,
+    "path" : "~/Data Science/R/Crude Oil/Analysis.R",
+    "project_path" : "Analysis.R",
+    "properties" : {
+        "cursorPosition" : "33,30",
+        "scrollLine" : "23"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
